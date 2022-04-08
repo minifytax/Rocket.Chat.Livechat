@@ -90,7 +90,7 @@
 		"@rocket.chat/ui-kit": "^0.14.1",
 		"crypto-js": "^4.1.1",
 		"css-vars-ponyfill": "^2.3.2",
-		"date-fns": "^2.15.0",
+		"date-fns": "^2.28.0",
 		"desvg": "^1.0.2",
 		"emoji-mart": "^3.0.0",
 		"history": "^5.0.0",
