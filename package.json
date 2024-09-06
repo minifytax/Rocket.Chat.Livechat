@@ -100,7 +100,7 @@
 		"mitt": "^2.1.0",
 		"preact": "^10.4.6",
 		"preact-router": "^3.2.1",
-		"query-string": "^6.13.1",
+		"query-string": "^7.1.3",
 		"react-i18next": "^11.13.0",
 		"whatwg-fetch": "^3.4.0"
 	},
